@@ -1,4 +1,5 @@
-/*
+/* Aim:
+To write a C program to convert an arithmetic expression from infix notation to postfix notation using a stack, by applying operator precedence and parenthesis handling.
 ******************************************
 Short form of Infox To Postfix Conversion
 ******************************************
