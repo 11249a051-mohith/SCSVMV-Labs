@@ -1,4 +1,4 @@
-#includestdio.h
+#include<stdio.h>
  void towerofhanoi(int n, int s, int a, int d)
  {
     if(n==1)
@@ -21,3 +21,4 @@ towerofhanoi(n, 's', 'a', 'd');
 
 
 }
+
