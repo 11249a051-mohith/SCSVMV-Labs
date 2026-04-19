@@ -1,8 +1,3 @@
-> **Name:** Mohith | **Reg No:** 11249A051 | **Email:** 11249A051@kanchiuniv.ac.in
-
----
-
-
 # Ex No: 3 — Shell Programs
 
 ## Execution Steps (for all programs)
