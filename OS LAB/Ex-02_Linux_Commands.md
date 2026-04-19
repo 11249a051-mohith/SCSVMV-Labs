@@ -1,7 +1,3 @@
-
----
-
-
 # Ex No: 2 — Basic Linux Commands
 
 ## Aim
