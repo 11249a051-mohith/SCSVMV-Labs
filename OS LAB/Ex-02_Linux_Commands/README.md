@@ -1,3 +1,6 @@
+> **Name:** Mohith | **Reg No:** 11249A051 | **Email:** 11249A051@kanchiuniv.ac.in
+----
+
 # Ex No: 2 — Basic Linux Commands
 
 ## Aim
