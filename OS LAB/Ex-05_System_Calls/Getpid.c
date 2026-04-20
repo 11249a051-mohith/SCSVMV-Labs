@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<unistd.h>
-// Sandeep Kumar  11249A040
+
 
 int main()
 {
