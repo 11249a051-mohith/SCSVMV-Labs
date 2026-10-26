@@ -1,0 +1,4 @@
+matplotlib>=3.8
+pandas>=2.0
+seaborn>=0.13
+plotly>=5.0
